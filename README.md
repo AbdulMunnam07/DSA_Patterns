@@ -20,7 +20,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 | **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
-| Searching in a sorted array               | Binary Search                            | Find element in sorted array, Rotated array search |
+| Searching in a sorted array               | Binary Search                            | [Find element in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/), Rotated array search |
 | Finding duplicates                        | Hashing, Sorting and Two Pointers        | Find duplicates, Contains duplicate II             |
 | Subarray with given sum                   | Sliding Window                           | Longest subarray with sum k, Subarray sum equals k |
 | Sorting                                   | Merge Sort, Quick Sort                   | Sorting integers, Sorting strings                  |

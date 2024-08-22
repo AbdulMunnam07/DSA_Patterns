@@ -107,7 +107,6 @@ This guide provides an overview of common algorithm patterns and their appropria
 | Merge k sorted lists                      | Min-Heap                                 | Merge k sorted lists                               |
 | Task scheduling with deadlines            | Greedy, Max-Heap                         | Task scheduler, Course schedule II                 |
 
-
 ## Trie
 
 | **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |

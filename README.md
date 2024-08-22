@@ -20,7 +20,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 | **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
-| Searching in a sorted array               | Binary Search                            | [Find element in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/), Rotated array search |
+| Searching in a sorted array               | Binary Search                            | Find element in sorted array, Rotated array search |
 | Finding duplicates                        | Hashing, Sorting and Two Pointers        | Find duplicates, Contains duplicate II             |
 | Subarray with given sum                   | Sliding Window                           | Longest subarray with sum k, Subarray sum equals k |
 | Sorting                                   | Merge Sort, Quick Sort                   | Sorting integers, Sorting strings                  |
@@ -47,6 +47,15 @@ This guide provides an overview of common algorithm patterns and their appropria
 | Next Greater Element                      | Monotonic Stack                          | Next greater element I/II                          |
 | Stock span problem                        | Monotonic Stack                          | Stock span problem                                 |
 
+
+## Queue/Deque
+
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
+|-------------------------------------------|------------------------------------------|----------------------------------------------------|
+| Sliding window maximum                    | Deque                                    | Sliding window maximum                             |
+| Level order traversal of tree             | BFS using Queue                          | Binary tree level order traversal                  |
+| Implement stack using queues              | Two Queues                               | Implement stack using queues                       |
+| First non-repeating character in stream   | Queue                                    | First unique character in a string                 |
 
 ## Hash Table
 
@@ -97,16 +106,6 @@ This guide provides an overview of common algorithm patterns and their appropria
 | Find kth smallest/largest element         | Min-Heap, Max-Heap                       | Kth largest element, Median from data stream       |
 | Merge k sorted lists                      | Min-Heap                                 | Merge k sorted lists                               |
 | Task scheduling with deadlines            | Greedy, Max-Heap                         | Task scheduler, Course schedule II                 |
-
-
-## Queue/Deque
-
-| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
-|-------------------------------------------|------------------------------------------|----------------------------------------------------|
-| Sliding window maximum                    | Deque                                    | Sliding window maximum                             |
-| Level order traversal of tree             | BFS using Queue                          | Binary tree level order traversal                  |
-| Implement stack using queues              | Two Queues                               | Implement stack using queues                       |
-| First non-repeating character in stream   | Queue                                    | First unique character in a string                 |
 
 
 ## Trie

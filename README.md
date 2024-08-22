@@ -18,7 +18,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Array
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Searching in a sorted array               | Binary Search                            | Find element in sorted array, Rotated array search |
 | Finding duplicates                        | Hashing, Sorting and Two Pointers        | Find duplicates, Contains duplicate II             |
@@ -29,7 +29,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Sliding Window
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Longest substring without repeating characters | Sliding Window + Hash Map            | Longest substring without repeating characters     |
 | Maximum sum subarray                      | Sliding Window                           | Maximum sum subarray of size k                     |
@@ -39,7 +39,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Stack
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Balancing parentheses                     | Stack                                    | Valid parentheses, Remove invalid parentheses      |
 | Evaluate postfix/prefix expressions       | Stack                                    | Evaluate reverse Polish notation                   |
@@ -50,7 +50,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Hash Table
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Finding duplicates                        | Hash Map                                 | Two sum, Contains duplicate                        |
 | Grouping anagrams                         | Hash Map                                 | Group anagrams, Count characters                   |
@@ -60,7 +60,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Linked List
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Reversal of list                          | In-Place Reversal                        | Reverse linked list, Reverse nodes in k-group      |
 | Detect cycle                              | Fast and Slow Pointers                   | Detect cycle in linked list                        |
@@ -70,7 +70,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Tree
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Tree Traversals (Preorder, Inorder, Postorder) | Recursive or Iterative Traversal     | Binary tree traversal, N-ary tree traversal        |
 | Level-order traversal                     | Breadth-First Search (BFS)               | Binary tree level order traversal                  |
@@ -81,7 +81,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Graph
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Traversal of graph nodes                  | Depth-First Search (DFS), BFS            | Connected components, DFS of a graph               |
 | Shortest path in unweighted graph         | BFS                                      | Shortest path in unweighted graph                  |
@@ -92,7 +92,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Heap/Priority Queue
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Find kth smallest/largest element         | Min-Heap, Max-Heap                       | Kth largest element, Median from data stream       |
 | Merge k sorted lists                      | Min-Heap                                 | Merge k sorted lists                               |
@@ -101,7 +101,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Queue/Deque
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Sliding window maximum                    | Deque                                    | Sliding window maximum                             |
 | Level order traversal of tree             | BFS using Queue                          | Binary tree level order traversal                  |
@@ -111,7 +111,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Trie
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Prefix search                             | Trie (Prefix Tree)                       | Implement Trie, Word search II                     |
 | Auto-complete                             | Trie                                     | Design search autocomplete system                  |
@@ -119,7 +119,7 @@ This guide provides an overview of common algorithm patterns and their appropria
 
 ## Dynamic Programming (DP)
 
-| **Problem Type**                          | **Suggested Algorithm/Pattern**          | **Example Problems**                               |
+| **Problem Type**                          | **Algorithm/Pattern**          | **Example Problems**                               |
 |-------------------------------------------|------------------------------------------|----------------------------------------------------|
 | Fibonacci-like sequence, Counting paths   | DP with memoization                      | Climbing stairs, House robber                      |
 | Subset problems                           | DP with subset sum                       | Subset sum, Partition equal subset sum             |

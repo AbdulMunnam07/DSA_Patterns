@@ -1,0 +1,53 @@
+Quick Reference for Algorithm Selection
+=======================================
+
+This guide provides quick tips for selecting the right algorithm or data structure based on common problem scenarios. Use this as a handy reference when approaching different types of DSA problems.
+
+Algorithm Selection Tips
+------------------------
+
+1. If Input Array is Sorted
+   - Use: Binary Search, Two Pointers
+
+2. If Asked for All Permutations/Subsets
+   - Use: Backtracking
+
+3. If Given a Tree
+   - Use: Depth-First Search (DFS), Breadth-First Search (BFS)
+
+4. If Given a Graph
+   - Use: Depth-First Search (DFS), Breadth-First Search (BFS)
+
+5. If Given a Linked List
+   - Use: Two Pointers
+
+6. If Recursion is Banned
+   - Use: Stack
+
+7. If Must Solve In-Place
+   - Use: Swap Corresponding Values, Store One or More Different Values in the Same Pointer
+
+8. If Asked for Maximum/Minimum Subarray/Subset/Options
+   - Use: Dynamic Programming
+
+9. If Asked for Top/Least K Items
+   - Use: Heap, QuickSelect
+
+10. If Asked for Common Strings
+    - Use: Map, Trie
+
+11. Else
+    - Use: 
+      - Map/Set for O(1) Time & O(n) Space
+      - Sort Input for O(nlogn) Time and O(1) Space
+
+
+Contributing
+------------
+
+If you'd like to contribute additional tips or insights, feel free to submit a pull request.
+
+License
+-------
+
+This guide is open-sourced under the MIT License. Feel free to use and share it as needed.
